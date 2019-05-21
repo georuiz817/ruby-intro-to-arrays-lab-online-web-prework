@@ -1,1 +1,1 @@
-def 
+def basicarrays_code(array)

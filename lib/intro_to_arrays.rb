@@ -13,5 +13,5 @@ end
 
 def first_element(array)
 array = ["Hello", "Welcome to New York", "this", "is", "the", "argument"]
-array[0]
+array[1]
 end

@@ -13,5 +13,5 @@ end
 
 first_element(array)
 array = ["Hello", "this", "is", "the", "argument"]
-array.
+array[0]
 end

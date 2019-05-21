@@ -10,3 +10,6 @@ end
 def array_with_two_elements 
   ["chicken", "wings"]
 end
+
+first_element(array)
+array = ""

@@ -14,4 +14,9 @@ end
 def first_element(array)
 array = ["Hello", "Welcome to New York", "this", "is", "the", "argument"]
 array[1]
+
+end
+
+def third_element(array)
+  array []
 end

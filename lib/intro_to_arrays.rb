@@ -33,7 +33,7 @@ def first_element_with_array_methods(array)
   array.first
 end
 
-def last_element_with_array_methods 
+def last_element_with_array_methods(array)
   array = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   array.last
 end

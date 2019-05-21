@@ -11,7 +11,7 @@ def array_with_two_elements
   ["chicken", "wings"]
 end
 
-first_element(array)
+def first_element(array)
 array = ["Hello", "this", "is", "the", "argument"]
-array(0)
+array[0]
 end

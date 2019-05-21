@@ -23,7 +23,7 @@ def third_element(array)
 end
 
 def last_element(array)
-  array =  ["0", "1", "2", "Style"]
+  array =  ["0", "1", "2", "Out of The woods"]
   array[3]
 end
 

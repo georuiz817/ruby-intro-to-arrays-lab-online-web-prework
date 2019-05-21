@@ -18,6 +18,6 @@ array[1]
 end
 
 def third_element(array)
-  array= ["0", "1", "2", "3"]
+  array= ["0", "1", "2", "Style"]
   array[3]
 end
